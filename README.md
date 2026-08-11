@@ -13,7 +13,7 @@
 
 ### 🛠 Tech Stack & Loadout
 *   **Web Core:** `JavaScript`, `PHP`, `CSS`
-*   **Automation Specialist:** `n8n`, `Shopify` (Building bots & e-commerce magic)
+*   **Automation Specialist:** `n8n`, `Shopify`, `Odoo`, `WordPress`, `SnipeIT` (Building bots & e-commerce magic)
 *   **Creative Tools:** Graphic Design & Architectural Visualization
 
 ---
