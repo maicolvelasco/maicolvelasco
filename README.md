@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 ¡Hola, soy Maicol Velasco! 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQ1dTJuZTIyMm4yejBrNzBoNDV1eDV6dHNjdGx3OTJ5YzltYnJ4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQ1dTJuZTIyMm4yejBrNzBoNDV1eDV6dHNjdGx3OTJ5YzltYnJ4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" />
 
 <br>
 
