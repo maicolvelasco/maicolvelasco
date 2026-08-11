@@ -1,19 +1,17 @@
 <div align="center">
 
-# 🚀 ¡Bienvenido a mi Mundo Digital!
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9D&width=500&lines=Ingeniero+de+Sistemas;Desarrollador+Full+Stack;Especialista+en+Automatización;Apasionado+por+el+Clean+Code" />
+# 🚀 ¡Hola, soy Maicol Velasco! 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9D&width=500&lines=Ingeniero+de+Sistemas;Full+Stack+Developer;Especialista+en+Automatización+y+ERP" />
 
 <br>
 
-![Banner](https://github-readme-stats.vercel.app/api?username=maicolvelasco&show_icons=true&hide_border=true&theme=dracula)
-
-</div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqbmV0d3B4ZzJ5ejR4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp90ZlY5d2E/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
 
 ---
 
 ## 🎮 Player Profile
-**Level:** 22 | **Class:** Systems Engineer | **Location:** Bolivia 🇧🇴
+**Level:** 22 | **Class:** Systems Engineer | **Location:** Cochabamba, Bolivia 🇧🇴
 
 > "Programar no es solo escribir código, es crear soluciones que cambian la realidad."
 
@@ -23,35 +21,27 @@
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |
-| **Frontend** | ![Vue3](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Tools** | ![n8n](https://img.shields.io/badge/n8n-FF5722?style=for-the-badge&logo=n8n&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white) |
+| **Full Stack** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Vue3](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **ERP & CMS** | ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![SnipeIT](https://img.shields.io/badge/SnipeIT-000000?style=for-the-badge&logo=snipeit&logoColor=white) |
+| **E-commerce** | ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white) |
+| **Automation** | ![n8n](https://img.shields.io/badge/n8n-FF5722?style=for-the-badge&logo=n8n&logoColor=white) |
 
 ---
 
 ## 🚀 Projects Laboratory
 
-Aquí están mis desarrollos principales, pulidos y listos para producción:
-
-*   **📦 Inventario (Laravel 13 + Inertia + Vue 3)**
-    *   *Descripción:* Sistema integral para cadenas de tiendas y bodegas. Manejo de lotes, fechas de vencimiento, compras, ventas, mermas y traslados entre sucursales.
-    *   *Feature:* **PWA (Progressive Web App)** instalable.
-
-*   **🛡️ Centinela (PHP)**
-    *   *Descripción:* Sistema de control de accesos y seguridad. Gestión de asistencias, encuestas y sistema de documentación mediante credenciales con **QR**.
-
-*   **💰 Billetera (PHP)**
-    *   *Descripción:* Plataforma de gestión de billetera digital y transferencias financieras, optimizada para procesos empresariales.
-
-*   **🚚 Despacho (PHP)**
-    *   *Descripción:* Aplicación web enfocada en la agilidad logística, control de despachos y gestión de ventas.
+*   **📦 Inventario:** (Laravel 13 + Inertia + Vue 3). Sistema PWA de gestión integral para cadenas de tiendas.
+*   **🛡️ Centinela:** (PHP). Control de accesos, asistencias y seguridad mediante QR.
+*   **💰 Billetera:** (PHP). Gestión de billetera digital y transferencias empresariales.
+*   **🚚 Despacho:** (PHP). Logística y gestión de ventas ágil.
 
 ---
 
-## 📊 Performance Statistics
+## 📊 Stats & Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=dracula&bg_color=18181b" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maicolvelasco&show_icons=true&hide_border=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicolvelasco&layout=compact&theme=dracula" />
 </div>
 
 ---
@@ -59,8 +49,11 @@ Aquí están mis desarrollos principales, pulidos y listos para producción:
 <div align="center">
 
 ### 📬 ¿Conectamos?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil) 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicol-velasco) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marratiavelasco@gmail.com)
+
+<br>
+<img src="https://media.giphy.com/media/du3J3VvC7sS0R1S13q/giphy.gif" width="200" />
 
 *Last updated: August 2026*
 </div>
