@@ -6,7 +6,7 @@
 
 <br>
 
-![Banner](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&hide_border=true&theme=dracula)
+![Banner](https://github-readme-stats.vercel.app/api?username=maicolvelasco&show_icons=true&hide_border=true&theme=dracula)
 
 </div>
 
