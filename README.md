@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 ¡Hola, soy Maicol Velasco! 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9D&width=500&lines=Ingeniero+de+Sistemas;Full+Stack+Developer;Especialista+en+Automatización+y+ERP" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQ1dTJuZTIyMm4yejBrNzBoNDV1eDV6dHNjdGx3OTJ5YzltYnJ4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
 <br>
 
