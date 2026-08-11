@@ -39,8 +39,8 @@
 ## 📊 Stats & Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maicolvelasco&show_icons=true&hide_border=true&theme=dracula&cache_buster=1" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicolvelasco&layout=compact&theme=dracula&cache_buster=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maicolvelasco&show_icons=true&hide_border=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicolvelasco&layout=compact&theme=dracula" />
 </div>
 
 ---
